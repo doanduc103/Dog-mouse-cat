@@ -1,5 +1,5 @@
-function Cat(){
-var stomach = []
+function Cat() {
+    var stomach = []
 }
 
 module.export = Cat;
